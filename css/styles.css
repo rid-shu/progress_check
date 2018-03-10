@@ -1,0 +1,25 @@
+body {
+  background: url("image1.png");
+  /*margin: 50px;*/
+  background-position: center;
+  background-repeat: no-repeat;
+  object-fit: cover;
+}
+
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+.months {
+  border: 1.5px;
+  text-align: center;
+  cursor: pointer;
+  padding: 14px 20px;
+  border-radius: 30px;
+  font-size: 20px;
+  width: 200px;
+  display: inline-block;
+  margin-left: 550px;
+  margin-bottom: 10px;
+}
